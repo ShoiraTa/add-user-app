@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# UserList app built usig React !
+# UserList app built using React !
 
 Single page app that adds adds users to a list and displays error if username and userage values are invalid.
 
