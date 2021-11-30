@@ -5,7 +5,7 @@
 
 
 
-Single page app that adds adds users to a list and displays error if username and userage values are invalid.
+Single page app that adds adds users to a list and displays error if username and userage values are invalid. Used hooks like useState and useRef. Used Portals to make html flow semantically correct .  
 
 ## Built With
 
